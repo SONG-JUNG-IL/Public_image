@@ -1,0 +1,56 @@
+{
+  "id": "https://song-jung-il.github.io/Public_image/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": ["Demo CT slice"],
+    "ko": ["데모 CT 슬라이스"]
+  },
+  "items": [
+    {
+      "id": "https://song-jung-il.github.io/Public_image/canvas/1",
+      "type": "Canvas",
+      "width": 2000,
+      "height": 2000,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/SONG-JUNG-IL/Public_image/main/slice0300.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://song-jung-il.github.io/Public_image/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://song-jung-il.github.io/Public_image/canvas/2",
+      "type": "Canvas",
+      "width": 2000,
+      "height": 2000,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/SONG-JUNG-IL/Public_image/main/slice0900.jpg",
+                "type": "Image",
+                "format": "image/jpeg"
+              },
+              "target": "https://song-jung-il.github.io/Public_image/canvas/2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
