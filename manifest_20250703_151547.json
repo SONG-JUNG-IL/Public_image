@@ -1,0 +1,408 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://song-jung-il.github.io/Public_image/manifest_20250703_151547.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "DICOCH DICOM Study"
+    ]
+  },
+  "summary": {
+    "en": [
+      "2025-07-03T15:16:02.956418"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://song-jung-il.github.io/Public_image/canvas/1",
+      "type": "Canvas",
+      "height": 2000,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://song-jung-il.github.io/Public_image/canvas/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://song-jung-il.github.io/Public_image/canvas/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/SONG-JUNG-IL/Public_image/main/3.example_dicoch.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 2000
+              },
+              "target": "https://song-jung-il.github.io/Public_image/canvas/1"
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "SpecificCharacterSet"
+            ]
+          },
+          "value": {
+            "none": [
+              "ISO_IR 192"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Study Date"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250703"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SeriesDate"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250703"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ContentDate"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250703"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Study Time"
+            ]
+          },
+          "value": {
+            "none": [
+              "151528"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SeriesTime"
+            ]
+          },
+          "value": {
+            "none": [
+              "151528"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ContentTime"
+            ]
+          },
+          "value": {
+            "none": [
+              "151528"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Modality"
+            ]
+          },
+          "value": {
+            "none": [
+              "OT"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "_PrivateCreator"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator20"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_Heritage Metadata Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator30"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_Gray Value Calibration Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator40"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_ROI Gray Value Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator50"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_HU Calibration Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator60"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_ROI-HU Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator70"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_IIIF / International Norm Link Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator80"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_Security / Access Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator90"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_DICOCH Private Tag Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Samples per Pixel"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Photometric Interpretation"
+            ]
+          },
+          "value": {
+            "none": [
+              "MONOCHROME2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Rows"
+            ]
+          },
+          "value": {
+            "none": [
+              "2000"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Columns"
+            ]
+          },
+          "value": {
+            "none": [
+              "2000"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Bits Allocated"
+            ]
+          },
+          "value": {
+            "none": [
+              "16"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Bits Stored"
+            ]
+          },
+          "value": {
+            "none": [
+              "16"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "High Bit"
+            ]
+          },
+          "value": {
+            "none": [
+              "15"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Pixel Representation"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "RescaleIntercept"
+            ]
+          },
+          "value": {
+            "none": [
+              "-1024.0"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "RescaleSlope"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.0"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "RescaleType"
+            ]
+          },
+          "value": {
+            "none": [
+              "HU"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Total Tags"
+        ]
+      },
+      "value": {
+        "none": [
+          "28"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Private Tags"
+        ]
+      },
+      "value": {
+        "none": [
+          "0"
+        ]
+      }
+    }
+  ]
+}
