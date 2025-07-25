@@ -1,0 +1,1548 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "E:\\2025 논문_문화유산 디지털 데이터 개선\\논문 1안_문화유산 비파괴진단 디지털 데이터의 표준화 방안 연구\\논문_ 코드20250721_영문캡션 수정_ 태그 구성 수정\\코드_영문 캡션 변경\\2.DICOM to JPEG _ tags_IIIF manifest converter_v1.5_코드 날짜오류_저장자동화_검증코드 저장\\manifest_20250725_141537.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "DICOCH DICOM Study"
+    ]
+  },
+  "summary": {
+    "en": [
+      "2025-07-25T14:15:47.536165"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://song-jung-il.github.io/Public_image/canvas/1",
+      "type": "Canvas",
+      "height": 2000,
+      "width": 2000,
+      "items": [
+        {
+          "id": "https://song-jung-il.github.io/Public_image/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://song-jung-il.github.io/Public_image/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/SONG-JUNG-IL/Public_image/main/3.example_dicoch.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2000,
+                "width": 2000
+              },
+              "target": "https://song-jung-il.github.io/Public_image/canvas/1"
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "none": [
+              "Specific Character Set"
+            ]
+          },
+          "value": {
+            "none": [
+              "ISO_IR192"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Manufacturer"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ImageType"
+            ]
+          },
+          "value": {
+            "none": [
+              "['DERIVED', 'SECONDARY']"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SOPClassUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.410.10008.5.1.4.1.1.7"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SOPInstanceUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.410.0.1.3680043.8.498.72086671478977588136793328147620910378"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Study Date"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250723"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Series Date"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250723"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Content Date"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250723"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Study Time"
+            ]
+          },
+          "value": {
+            "none": [
+              "140925"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Series Time"
+            ]
+          },
+          "value": {
+            "none": [
+              "140925"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Content Time"
+            ]
+          },
+          "value": {
+            "none": [
+              "140925"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Modality"
+            ]
+          },
+          "value": {
+            "none": [
+              "OT"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Modalities In Study"
+            ]
+          },
+          "value": {
+            "none": [
+              "OT"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SOP Classes In Study"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.410.0.1.3680043.8.498.72086671478977588136793328147620910378"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Conversion Type"
+            ]
+          },
+          "value": {
+            "none": [
+              "WSD"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "DICOCH_0070"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "AccessionNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Series Description"
+            ]
+          },
+          "value": {
+            "none": [
+              "Cultural Heritage X-ray CT Scan"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Manufacturer’s Model Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "Converter v3.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "StudyDescription"
+            ]
+          },
+          "value": {
+            "none": [
+              "X-ray CT scan of cultural heritage"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SeriesDescription"
+            ]
+          },
+          "value": {
+            "none": [
+              "National Treasure No. 21 Andong Hahoe Mask"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Patient Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "UNKNOWN"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Patient ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "0000"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PatientBirthDate"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250723"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PatientSex"
+            ]
+          },
+          "value": {
+            "none": [
+              "O"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "_PrivateCreator"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_NRICH by SONG JUNG IL"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator20"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_Heritage Metadata Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator30"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_Gray Value Calibration Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator40"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_ROI Gray Value Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator50"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_HU Calibration Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator60"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_ROI-HU Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator70"
+            ]
+          },
+          "value": {
+            "none": [
+              "['DICOCH_IIIF', ' International Norm Link Sequence']"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator80"
+            ]
+          },
+          "value": {
+            "none": [
+              "['DICOCH_Security', ' Access Sequence']"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "PrivateCreator90"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_DICOCH Private Tag Sequence"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Heritage Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "Andong Hahoe Yangban Mask"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Heritage ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "KR-AHYM-NT121-YB"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Historic Period"
+            ]
+          },
+          "value": {
+            "none": [
+              "Goryeo Dynasty, 12th?13th"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Material Composition"
+            ]
+          },
+          "value": {
+            "none": [
+              "Salix spp."
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Condition Status"
+            ]
+          },
+          "value": {
+            "none": [
+              "Surface_Crack_3"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Cultural Significance"
+            ]
+          },
+          "value": {
+            "none": [
+              "NationalTreasure NO.121"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Investigation Purpose"
+            ]
+          },
+          "value": {
+            "none": [
+              "X-ray Non-destructive Precision Documentation and Internal Structure Analysis"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Investigator"
+            ]
+          },
+          "value": {
+            "none": [
+              "National Research Institute of Cultural Heritage^ NRICH"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Site Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "132 Munji-ro, Yuseong-gu, Daejeon, South Korea"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Mean Gray Value"
+            ]
+          },
+          "value": {
+            "none": [
+              "6000"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Min Gray Value"
+            ]
+          },
+          "value": {
+            "none": [
+              "1700"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Max Gray Value"
+            ]
+          },
+          "value": {
+            "none": [
+              "65535"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Label"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Type"
+            ]
+          },
+          "value": {
+            "none": [
+              "Polygon"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Coordinates"
+            ]
+          },
+          "value": {
+            "none": [
+              "(1387,828), (1386,828), (1386,829), (1385,829), (1385,830), (1384,830)?...(994,638), (993,638), (993,639), (992,639), (992,640)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Mean Gray Value"
+            ]
+          },
+          "value": {
+            "none": [
+              "6000"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Min Gray Value"
+            ]
+          },
+          "value": {
+            "none": [
+              "1700"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Max Gray Value"
+            ]
+          },
+          "value": {
+            "none": [
+              "10300"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "CH-HU CalRef"
+            ]
+          },
+          "value": {
+            "none": [
+              "WaterPhantom"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "MassAttenDataSrc"
+            ]
+          },
+          "value": {
+            "none": [
+              "NIST XCOM https:\\\\physics.nist.gov\\PhysRefData\\Xcom\\html\\xcom1.html"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "CH-HUCalibration Rescale Slope"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "CH-HUCalibration Rescale Intercept"
+            ]
+          },
+          "value": {
+            "none": [
+              "-1024"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "CH-HUCalibration Rescale Type"
+            ]
+          },
+          "value": {
+            "none": [
+              "CH-HU_NRICH"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Label"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Type"
+            ]
+          },
+          "value": {
+            "none": [
+              "Polygon"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ROI Coordinates"
+            ]
+          },
+          "value": {
+            "none": [
+              "(1387,828), (1386,828), (1386,829), (1385,829), (1385,830), (1384,830)?...(994,638), (993,638), (993,639), (992,639), (992,640)"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Slice Number \\ Frame UID"
+            ]
+          },
+          "value": {
+            "none": [
+              "slice300-ViewImage0770"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Mean HU"
+            ]
+          },
+          "value": {
+            "none": [
+              "676 HU"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Min HU"
+            ]
+          },
+          "value": {
+            "none": [
+              "4976 HU"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Max HU"
+            ]
+          },
+          "value": {
+            "none": [
+              "9276 HU"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "HU StdDev"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Reference Material"
+            ]
+          },
+          "value": {
+            "none": [
+              "wood"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "IIIF Manifest URI"
+            ]
+          },
+          "value": {
+            "none": [
+              "https:\\\\song-jung-il.github.io\\Public_image\\manifest.json"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "IIIF ImageService URI"
+            ]
+          },
+          "value": {
+            "none": [
+              "https:\\\\raw.githubusercontent.com\\SONG-JUNG-IL\\Public_image\\main\\slice0300.jpg"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "IIIF Compliance Level"
+            ]
+          },
+          "value": {
+            "none": [
+              "LEVEL1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Open License Statement"
+            ]
+          },
+          "value": {
+            "none": [
+              "PUBLIC"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Access Level"
+            ]
+          },
+          "value": {
+            "none": [
+              "PUBLIC"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Embargo End Date"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250101"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Encryption Method"
+            ]
+          },
+          "value": {
+            "none": [
+              "AES-256-GCM"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Hash Algorithm"
+            ]
+          },
+          "value": {
+            "none": [
+              "SHA-256"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Data Checksum"
+            ]
+          },
+          "value": {
+            "none": [
+              "16 byte MD5"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "License Type"
+            ]
+          },
+          "value": {
+            "none": [
+              "NRICH-INT-DATA v1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Authorized User ID"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_NRICH by SONG JUNG IL"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Access Audit Trail"
+            ]
+          },
+          "value": {
+            "none": [
+              "Created:20250613;Accessed:20250613"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "README_DICOCH_Private_Tags"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH Private Tag Group 0013 -- Complete List\n============================================\n\nFile: DICOCH_Private_Tags_0013_FULL_20250614.txt\nGenerated: 2025-06-14\n\nScope\n-----\nThis file contains every private tag entry in group (0013,xxxx) that appears in the master\nspreadsheet. Use it as the authoritative reference when embedding or validating DICOCH\nmetadata in your DICOM files.\n\nFormat\n------\n    (0013,EEEE) VR \"Keyword\"\n\n0013  -- reserved private group for Digital Imaging & Communications for Cultural Heritage (DICOCH).\nEEEE  -- element number as four-digit hexadecimal.\nVR    -- Value Representation.\nKeyword -- tag name.\n\n\nAuthor & Contact\n----------------\nSong Jung?il (???)\nCenter for Conservation Science\nNational Research Institute of Cultural Heritage, Republic of Korea\nEmail: ssong85@korea.kr\n\nRedistribution permitted for cultural?heritage research and archiving with attribution."
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "DICOCH private_dict"
+            ]
+          },
+          "value": {
+            "none": [
+              "Tag List\n--------\n(0013,0010) LO \"Heritage Metadata Sequence\"\n(0013,1100) SQ \"Heritage Metadata Sequence\"\n(0013,1101) LO \"Heritage Name\"\n(0013,1102) LO \"Heritage ID\"\n(0013,1103) LO \"Historic Period\"\n(0013,1104) UT \"Material Composition\"\n(0013,1105) UT \"Condition Status\"\n(0013,1106) LO \"Cultural Significance\"\n(0013,1107) UT \"Investigation Purpose\"\n(0013,1108) LO \"Investigator\"\n(0013,1109) LO \"Site Location?\n(0013,0010) LO \"Gray Value Calibration Sequence\"\n(0013,1200) SQ \"Gray Value Calibration Sequence\"\n(0013,1201) DS \"Mean Gray Value\"\n(0013,1202) DS \"Min Gray Value\"\n(0013,1203) DS \"Max Gray Value?\n(0013,0010) LO \"ROI Gray Value Sequence\"\n(0013,1300) SQ \"ROI Gray Value Sequence\"\n(0013,1301) LO \"ROI Label\"\n(0013,1302) LO \"ROI Type\"\n(0013,1303) UT \"ROI Coordinates\"\n(0013,1304) DS \"ROI Mean Gray Value\"\n(0013,1305) DS \"ROI Min Gray Value\"\n(0013,1306) DS \"ROI Max Gray Value?\n(0013,0010) LO \"HU Calibration Sequence\"\n(0013,1400) SQ \"HU Calibration Sequence\"\n(0013,1401) LO \"CH-HU CalRef\"\n(0013,1402) LO \"MassAttenDataS"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ScanOptions"
+            ]
+          },
+          "value": {
+            "none": [
+              "SE"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Slice Thickness"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.116873"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "KVP"
+            ]
+          },
+          "value": {
+            "none": [
+              "90"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Spacing Between Slices"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.116873"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Distance Source-Detector"
+            ]
+          },
+          "value": {
+            "none": [
+              "975"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Distance Source-Patient"
+            ]
+          },
+          "value": {
+            "none": [
+              "735.065"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Gantry\\Detector Tilt"
+            ]
+          },
+          "value": {
+            "none": [
+              "720"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Exposure Time"
+            ]
+          },
+          "value": {
+            "none": [
+              "350"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "X-ray Tube Current"
+            ]
+          },
+          "value": {
+            "none": [
+              "200"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Exposure"
+            ]
+          },
+          "value": {
+            "none": [
+              "6"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Focal Spot(s)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.004"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ProtocolName"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_NRICH by SONG JUNG IL"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Filter Material"
+            ]
+          },
+          "value": {
+            "none": [
+              "COPPER"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Table Feed per Rotation"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.019531"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Reconstruction Algorithm"
+            ]
+          },
+          "value": {
+            "none": [
+              "FBP"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "StudyInstanceUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.410.82.42.860.9387"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SeriesInstanceUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.410.82.42.860.9387"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "StudyID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SeriesNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "InstanceNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SeriesInstanceUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.410.0.1.3680043.8.498.20250723.125814.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SeriesNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "InstanceNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "330"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ImagePositionPatient"
+            ]
+          },
+          "value": {
+            "none": [
+              "-120.000000"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Frame of Reference UID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.410.10008.5.1.4.1.1.7"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "ImageOrientationPatient"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "SliceLocation"
+            ]
+          },
+          "value": {
+            "none": [
+              "770"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Samples per Pixel"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Photometric Interpretation"
+            ]
+          },
+          "value": {
+            "none": [
+              "MONOCHROME2"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Rows"
+            ]
+          },
+          "value": {
+            "none": [
+              "2000"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Columns"
+            ]
+          },
+          "value": {
+            "none": [
+              "2000"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Pixel Spacing"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Bits Allocated"
+            ]
+          },
+          "value": {
+            "none": [
+              "16"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Bits Stored"
+            ]
+          },
+          "value": {
+            "none": [
+              "16"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "High Bit"
+            ]
+          },
+          "value": {
+            "none": [
+              "15"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Pixel Representation"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Window Center"
+            ]
+          },
+          "value": {
+            "none": [
+              "-849"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Window Width"
+            ]
+          },
+          "value": {
+            "none": [
+              "158"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "RescaleIntercept"
+            ]
+          },
+          "value": {
+            "none": [
+              "-1024"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "RescaleSlope"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "RescaleType"
+            ]
+          },
+          "value": {
+            "none": [
+              "HU"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Total Tags"
+        ]
+      },
+      "value": {
+        "none": [
+          "121"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Private Tags"
+        ]
+      },
+      "value": {
+        "none": [
+          "0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "HU Min"
+        ]
+      },
+      "value": {
+        "none": [
+          "676.0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "HU Max"
+        ]
+      },
+      "value": {
+        "none": [
+          "676.0"
+        ]
+      }
+    }
+  ]
+}
