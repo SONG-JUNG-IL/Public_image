@@ -28,7 +28,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://raw.githubusercontent.com/SONG-JUNG-IL/Public_image/main/3.example_dicoch.jpg",
+                "id": "https://raw.githubusercontent.com/SONG-JUNG-IL/Public_image/main/1.example_dicoch.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "height": 2000,
@@ -1311,7 +1311,7 @@
           },
           "value": {
             "none": [
-              "https:\\\\raw.githubusercontent.com\\SONG-JUNG-IL\\Public_image\\main\\slice0300.jpg"
+              "https:\\\\raw.githubusercontent.com\\SONG-JUNG-IL\\Public_image\\main\\2.example_dicoch.jpg"
             ]
           }
         },
