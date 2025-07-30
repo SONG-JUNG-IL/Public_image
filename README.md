@@ -11,7 +11,7 @@ ROI Coordinate Data Extracted via ImageJ: XY_Coordinates_example_dicoch_ROI_.xls
 This spreadsheet contains the exact XY coordinate data of selected ROIs extracted from 3.example_dicoch.jpg using ImageJ.
 
 By supplying the manifest located at
-🔗 (https://song-jung-il.github.io/Public_image/manifest_20250703_131413.json)
+🔗 (https://song-jung-il.github.io/Public_image/manifest_20250730_1117.json)
 to the Mirador viewer demo
 🔗 https://projectmirador.org/demo/,
 standardized IIIF image presentation can be tested and validated.
