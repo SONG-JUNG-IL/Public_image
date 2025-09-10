@@ -1,0 +1,3378 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://song-jung-il.github.io/Public_image/manifest_20250910_1333.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "DICOCH DICOM Study"
+    ]
+  },
+  "summary": {
+    "en": [
+      "2025-09-10T13:33:18.498628"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://song-jung-il.github.io/Public_image/canvas/1",
+      "type": "Canvas",
+      "height": 2048,
+      "width": 2048,
+      "items": [
+        {
+          "id": "https://song-jung-il.github.io/Public_image/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://song-jung-il.github.io/Public_image/anno/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://raw.githubusercontent.com/SONG-JUNG-IL/Public_image/main/images/slice1177-1.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 2048,
+                "width": 2048
+              },
+              "target": "https://song-jung-il.github.io/Public_image/canvas/1"
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "group": 8,
+          "element": 5,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "SpecificCharacterSet"
+            ]
+          },
+          "value": {
+            "none": [
+              "ISO_IR 192"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 8,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "Image Type"
+            ]
+          },
+          "value": {
+            "none": [
+              "['DERIVED', 'PRIMARY', 'AXIAL']"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 22,
+          "vr": "UI",
+          "level": 0,
+          "type": "UID",
+          "label": {
+            "none": [
+              "SOPClassUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.840.10008.5.1.4.1.1.2"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 24,
+          "vr": "UI",
+          "level": 0,
+          "type": "UID",
+          "label": {
+            "none": [
+              "SOPInstanceUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.276.0.7230010.3.1.4.3719806279.3380.1645512530.9818"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 32,
+          "vr": "DA",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "StudyDate"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250723"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 33,
+          "vr": "DA",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "SeriesDate"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250723"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 35,
+          "vr": "DA",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "ContentDate"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250723"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 48,
+          "vr": "TM",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "StudyTime"
+            ]
+          },
+          "value": {
+            "none": [
+              "140925"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 49,
+          "vr": "TM",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "SeriesTime"
+            ]
+          },
+          "value": {
+            "none": [
+              "140925"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 51,
+          "vr": "TM",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "ContentTime"
+            ]
+          },
+          "value": {
+            "none": [
+              "140925"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 80,
+          "vr": "SH",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "AccessionNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "1177"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 96,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "Modality"
+            ]
+          },
+          "value": {
+            "none": [
+              "CT"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 112,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "Manufacturer"
+            ]
+          },
+          "value": {
+            "none": [
+              "NRICH by SONG JUNG IL"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 128,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "Institution Name"
+            ]
+          },
+          "value": {
+            "none": [
+              "NRICH"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 144,
+          "vr": "PN",
+          "level": 0,
+          "type": "PersonName",
+          "label": {
+            "none": [
+              "ReferringPhysicianName"
+            ]
+          },
+          "value": {
+            "none": [
+              "KOREA^Object"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 4144,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "StudyDescription"
+            ]
+          },
+          "value": {
+            "none": [
+              "X-ray CT scan of cultural heritage"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 4158,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "SeriesDescription"
+            ]
+          },
+          "value": {
+            "none": [
+              "National Treasure No. 21 Andong Hahoe Mask"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 4240,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "Manufacturer’sModelName"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH Converter v3.3"
+            ]
+          }
+        },
+        {
+          "group": 8,
+          "element": 8465,
+          "vr": "ST",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "DerivationDescription"
+            ]
+          },
+          "value": {
+            "none": [
+              "slice1177; 2048*2048; dcm to PNG"
+            ]
+          }
+        },
+        {
+          "group": 16,
+          "element": 16,
+          "vr": "PN",
+          "level": 0,
+          "type": "PersonName",
+          "label": {
+            "none": [
+              "PatientName"
+            ]
+          },
+          "value": {
+            "none": [
+              "KOREAObject^HeritageObject"
+            ]
+          }
+        },
+        {
+          "group": 16,
+          "element": 32,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "PatientID"
+            ]
+          },
+          "value": {
+            "none": [
+              "OBJ-CT-TEST-HAHOE"
+            ]
+          }
+        },
+        {
+          "group": 16,
+          "element": 48,
+          "vr": "DA",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "PatientBirthDate"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250723"
+            ]
+          }
+        },
+        {
+          "group": 16,
+          "element": 64,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "PatientSex"
+            ]
+          },
+          "value": {
+            "none": [
+              "O"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 16,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0010)"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_NRICH by SONG JUNG IL"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 17,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0011)"
+            ]
+          },
+          "value": {
+            "none": [
+              "HeritageMetadataSequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 18,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0012)"
+            ]
+          },
+          "value": {
+            "none": [
+              "GrayValue-HU_PointSequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 19,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0013)"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_GrayValue-HU_ROISequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 20,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0014)"
+            ]
+          },
+          "value": {
+            "none": [
+              "HUCalibrationSequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 21,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0015)"
+            ]
+          },
+          "value": {
+            "none": [
+              "IIIFInternationalNormLinkSequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 22,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0016)"
+            ]
+          },
+          "value": {
+            "none": [
+              "SecurityAccessSequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 23,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0017)"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_X-ray CR Sequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 24,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0018)"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_X-ray CT Sequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 25,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,0019)"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCHPrivateTagSequence"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4352,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1100)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4353,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1101)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Andong Hahoe Yangban Mask"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4354,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1102)"
+            ]
+          },
+          "value": {
+            "none": [
+              "KR-AHYM-NT121-YB"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4355,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1103)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Goryeo Dynasty, 12th–13th"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4356,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1104)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Salix spp."
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4357,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1105)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Surface_Crack_3"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4358,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1106)"
+            ]
+          },
+          "value": {
+            "none": [
+              "NationalTreasure NO.121"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4359,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1107)"
+            ]
+          },
+          "value": {
+            "none": [
+              "X-ray Non-destructive Precision Documentation and Internal Structure Analysis"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4360,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1108)"
+            ]
+          },
+          "value": {
+            "none": [
+              "National Research Institute of Cultural Heritage, NRICH"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4361,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1109)"
+            ]
+          },
+          "value": {
+            "none": [
+              "132 Munji-ro, Yuseong-gu, Daejeon, South Korea"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4608,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1200)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4609,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1201)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_1_air"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4610,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1202)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(128,140)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4611,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1203)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4612,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1204)"
+            ]
+          },
+          "value": {
+            "none": [
+              "-1024"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4613,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1205)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_2_background"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4614,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1206)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(540,448)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4615,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1207)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2000"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4616,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1208)"
+            ]
+          },
+          "value": {
+            "none": [
+              "976"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4617,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1209)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_3_wood"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4624,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1210)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(608,784)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4625,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1211)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2008"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4626,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1212)"
+            ]
+          },
+          "value": {
+            "none": [
+              "984"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4627,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1213)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_4_pgment"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4628,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1214)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(684,676)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4629,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1215)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2009"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4630,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1216)"
+            ]
+          },
+          "value": {
+            "none": [
+              "985"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4631,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1217)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_5_iron nail"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4632,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1218)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(1324,944)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4633,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1219)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2105"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4640,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1220)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1081"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4864,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1300)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4865,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1301)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_1_air"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4866,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1302)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Polygon"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4867,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1303)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(108, 84), (108, 184), (208, 84), (208, 184)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4868,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1304)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4869,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1305)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4870,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1306)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4871,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1307)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4872,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1308)"
+            ]
+          },
+          "value": {
+            "none": [
+              "-1024"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4873,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1309)"
+            ]
+          },
+          "value": {
+            "none": [
+              "-1024"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4880,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1310)"
+            ]
+          },
+          "value": {
+            "none": [
+              "-1024"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4881,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1311)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4882,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1312)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_2_background"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4883,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1313)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Polygon"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4884,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1314)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(496, 412), (496, 512), (596, 412), (596, 512)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4885,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1315)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1999.9042"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4886,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1316)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1999"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4887,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1317)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2000"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4888,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1318)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.5517782283973506"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4889,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1319)"
+            ]
+          },
+          "value": {
+            "none": [
+              "975.904175"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4896,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1320)"
+            ]
+          },
+          "value": {
+            "none": [
+              "975"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4897,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1321)"
+            ]
+          },
+          "value": {
+            "none": [
+              "976"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4898,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1322)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.551772124046696"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4899,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1323)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_3_wood"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4900,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1324)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Polygon"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4901,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1325)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(556, 768), (556, 868), (656, 768), (656, 868)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4902,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1326)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2007.9163"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4903,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1327)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2007"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4904,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1328)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2009"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4905,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1329)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.001166934132363"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4912,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1330)"
+            ]
+          },
+          "value": {
+            "none": [
+              "983.916321"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4913,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1331)"
+            ]
+          },
+          "value": {
+            "none": [
+              "983"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4914,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1332)"
+            ]
+          },
+          "value": {
+            "none": [
+              "985"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4915,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1333)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.001166348988517"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4916,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1334)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_4_pgment"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4917,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1335)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Polygon"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4918,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1336)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(664, 648), (664, 748), (764, 648), (764, 748)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4919,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1337)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2009.535"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4920,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1338)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1991"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4921,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1339)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2161"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4928,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1340)"
+            ]
+          },
+          "value": {
+            "none": [
+              "93.26056012591816"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4929,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1341)"
+            ]
+          },
+          "value": {
+            "none": [
+              "985.534973"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4930,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1342)"
+            ]
+          },
+          "value": {
+            "none": [
+              "967"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4931,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1343)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1137"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4932,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1344)"
+            ]
+          },
+          "value": {
+            "none": [
+              "93.26056654004543"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4933,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1345)"
+            ]
+          },
+          "value": {
+            "none": [
+              "MASK_5_iron nail"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4934,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1346)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Polygon"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4935,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1347)"
+            ]
+          },
+          "value": {
+            "none": [
+              "(1288, 904), (1288, 1004), (1388, 904), (1388, 1004)"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4936,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1348)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2049.2799"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4937,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1349)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1932"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4944,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1350)"
+            ]
+          },
+          "value": {
+            "none": [
+              "2240"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4945,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1351)"
+            ]
+          },
+          "value": {
+            "none": [
+              "155.4524211712488"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4946,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1352)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1025.279907"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4947,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1353)"
+            ]
+          },
+          "value": {
+            "none": [
+              "908"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4948,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1354)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1216"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 4949,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1355)"
+            ]
+          },
+          "value": {
+            "none": [
+              "155.4524206200817"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5120,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1400)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5121,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1401)"
+            ]
+          },
+          "value": {
+            "none": [
+              "WaterPhantom"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5122,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1402)"
+            ]
+          },
+          "value": {
+            "none": [
+              "NIST XCOM"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5123,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1403)"
+            ]
+          },
+          "value": {
+            "none": [
+              "https://physics.nist.gov/PhysRefData/Xcom/html/xcom1.html"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5124,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1404)"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5125,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1405)"
+            ]
+          },
+          "value": {
+            "none": [
+              "-1024"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5126,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1406)"
+            ]
+          },
+          "value": {
+            "none": [
+              "CH-HU_NRICH"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5376,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1500)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5377,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1501)"
+            ]
+          },
+          "value": {
+            "none": [
+              "https://song-jung-il.github.io/Public_image/manifest_slice1177.json"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5378,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1502)"
+            ]
+          },
+          "value": {
+            "none": [
+              "https://github.com/SONG-JUNG-IL/Public_image/blob/main/slice1177.jpg"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5379,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1503)"
+            ]
+          },
+          "value": {
+            "none": [
+              "LEVEL1"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5380,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1504)"
+            ]
+          },
+          "value": {
+            "none": [
+              "https://projectmirador.org/demo/"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5381,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1505)"
+            ]
+          },
+          "value": {
+            "none": [
+              "PUBLIC"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5632,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1600)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5633,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1601)"
+            ]
+          },
+          "value": {
+            "none": [
+              "PUBLIC"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5634,
+          "vr": "DA",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1602)"
+            ]
+          },
+          "value": {
+            "none": [
+              "20250101"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5635,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1603)"
+            ]
+          },
+          "value": {
+            "none": [
+              "AES-256-GCM"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5636,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1604)"
+            ]
+          },
+          "value": {
+            "none": [
+              "SHA-256"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5637,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1605)"
+            ]
+          },
+          "value": {
+            "none": [
+              "16 byte MD5"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5638,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1606)"
+            ]
+          },
+          "value": {
+            "none": [
+              "NRICH-INT-DATA v1"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5639,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1607)"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_NRICH by SONG JUNG IL"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5640,
+          "vr": "UT",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1608)"
+            ]
+          },
+          "value": {
+            "none": [
+              "Created:20250613;Accessed:20250613"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5888,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1700)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5896,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1708)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5897,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1709)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5904,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1710)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 5907,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1713)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6144,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1800)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6145,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "(0013,1801)"
+            ]
+          },
+          "value": {
+            "none": [
+              "90"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6146,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "(0013,1802)"
+            ]
+          },
+          "value": {
+            "none": [
+              "975"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6147,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "(0013,1803)"
+            ]
+          },
+          "value": {
+            "none": [
+              "735.065"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6148,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "(0013,1804)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6149,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1805)"
+            ]
+          },
+          "value": {
+            "none": [
+              "350"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6150,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1806)"
+            ]
+          },
+          "value": {
+            "none": [
+              "200"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6151,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1807)"
+            ]
+          },
+          "value": {
+            "none": [
+              "6"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6152,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "(0013,1808)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.004"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6153,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1809)"
+            ]
+          },
+          "value": {
+            "none": [
+              "COPPER"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6160,
+          "vr": "FD",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "(0013,1810)"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.019531"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6161,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1811)"
+            ]
+          },
+          "value": {
+            "none": [
+              "FBP"
+            ]
+          }
+        },
+        {
+          "group": 19,
+          "element": 6400,
+          "vr": "SQ",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "(0013,1900)"
+            ]
+          },
+          "value": {
+            "none": [
+              "[]"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 80,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "SliceThickness"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.127204"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 96,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "KVP"
+            ]
+          },
+          "value": {
+            "none": [
+              "90"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 136,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "SpacingBetweenSlices"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.127204"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 4144,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "ProtocolName"
+            ]
+          },
+          "value": {
+            "none": [
+              "DICOCH_NRICH by SONG JUNG IL"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 4432,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "ExposureTime"
+            ]
+          },
+          "value": {
+            "none": [
+              "350"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 4433,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "X-rayTubeCurrent"
+            ]
+          },
+          "value": {
+            "none": [
+              "200"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 4434,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "Exposure"
+            ]
+          },
+          "value": {
+            "none": [
+              "6"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 4624,
+          "vr": "SH",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "ConvolutionKernel"
+            ]
+          },
+          "value": {
+            "none": [
+              "STANDARD"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 20736,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "PatientPosition"
+            ]
+          },
+          "value": {
+            "none": [
+              "HFS"
+            ]
+          }
+        },
+        {
+          "group": 24,
+          "element": 37648,
+          "vr": "FD",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "TableFeedperRotation"
+            ]
+          },
+          "value": {
+            "none": [
+              "0.019531"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 13,
+          "vr": "UI",
+          "level": 0,
+          "type": "UID",
+          "label": {
+            "none": [
+              "StudyInstanceUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.276.0.7230010.3.1.4.3719806279.3380.1645512104.8639"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 14,
+          "vr": "UI",
+          "level": 0,
+          "type": "UID",
+          "label": {
+            "none": [
+              "SeriesInstanceUID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.276.0.7230010.3.1.4.3719806279.3380.1645512104.8640"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 16,
+          "vr": "SH",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "StudyID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 17,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "SeriesNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 18,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "AcquisitionNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "1177"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 19,
+          "vr": "IS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "InstanceNumber"
+            ]
+          },
+          "value": {
+            "none": [
+              "1177"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 50,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "ImagePositionPatient"
+            ]
+          },
+          "value": {
+            "none": [
+              "['0', '0', '0']"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 55,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "ImageOrientationPatient"
+            ]
+          },
+          "value": {
+            "none": [
+              "['1', '0', '0', '0', '1', '0']"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 82,
+          "vr": "UI",
+          "level": 0,
+          "type": "UID",
+          "label": {
+            "none": [
+              "FrameofReference UID"
+            ]
+          },
+          "value": {
+            "none": [
+              "1.2.276.0.7230010.3.1.4.3719806279.3380.1645512104.8641"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 96,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "Laterality"
+            ]
+          },
+          "value": {
+            "none": [
+              "R"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 4160,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "PositionReferenceIndicator"
+            ]
+          },
+          "value": {
+            "none": [
+              "R"
+            ]
+          }
+        },
+        {
+          "group": 32,
+          "element": 4161,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "SliceLocation"
+            ]
+          },
+          "value": {
+            "none": [
+              "149.719269"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 2,
+          "vr": "US",
+          "level": 0,
+          "type": "int",
+          "label": {
+            "none": [
+              "SamplesperPixel"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 4,
+          "vr": "CS",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "PhotometricInterpretation"
+            ]
+          },
+          "value": {
+            "none": [
+              "MONOCHROME2"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 16,
+          "vr": "US",
+          "level": 0,
+          "type": "int",
+          "label": {
+            "none": [
+              "Rows"
+            ]
+          },
+          "value": {
+            "none": [
+              "2048"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 17,
+          "vr": "US",
+          "level": 0,
+          "type": "int",
+          "label": {
+            "none": [
+              "Columns"
+            ]
+          },
+          "value": {
+            "none": [
+              "2048"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 48,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "PixelSpacing"
+            ]
+          },
+          "value": {
+            "none": [
+              "['0.155671', '0.155671']"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 256,
+          "vr": "US",
+          "level": 0,
+          "type": "int",
+          "label": {
+            "none": [
+              "BitsAllocated"
+            ]
+          },
+          "value": {
+            "none": [
+              "16"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 257,
+          "vr": "US",
+          "level": 0,
+          "type": "int",
+          "label": {
+            "none": [
+              "BitsStored"
+            ]
+          },
+          "value": {
+            "none": [
+              "16"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 258,
+          "vr": "US",
+          "level": 0,
+          "type": "int",
+          "label": {
+            "none": [
+              "HighBit"
+            ]
+          },
+          "value": {
+            "none": [
+              "15"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 259,
+          "vr": "US",
+          "level": 0,
+          "type": "int",
+          "label": {
+            "none": [
+              "PixelRepresentation"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 4176,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "WindowCenter"
+            ]
+          },
+          "value": {
+            "none": [
+              "32640"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 4177,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "WindowWidth"
+            ]
+          },
+          "value": {
+            "none": [
+              "65280"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 4178,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "RescaleIntercept"
+            ]
+          },
+          "value": {
+            "none": [
+              "0"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 4179,
+          "vr": "DS",
+          "level": 0,
+          "type": "float",
+          "label": {
+            "none": [
+              "RescaleSlope"
+            ]
+          },
+          "value": {
+            "none": [
+              "1"
+            ]
+          }
+        },
+        {
+          "group": 40,
+          "element": 4180,
+          "vr": "LO",
+          "level": 0,
+          "type": "str",
+          "label": {
+            "none": [
+              "RescaleType"
+            ]
+          },
+          "value": {
+            "none": [
+              "US"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
